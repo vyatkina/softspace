@@ -1,3 +1,3 @@
 # softspace
 
-my thist test
+text about Philosophy
